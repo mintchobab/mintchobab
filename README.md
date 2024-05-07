@@ -1,22 +1,12 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Minchobab%20Github!!&fontSize=80&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Minchobab's%20Github&fontSize=80&fontColor=FFFFFF)
+
+<br>
+
+### 🚀**Blog** : https://mintchobab.tistory.com/
+
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintchobab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
-
-<!--
-**mintchobab/mintchobab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
